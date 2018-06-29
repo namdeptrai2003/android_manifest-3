@@ -7,5 +7,5 @@
   <project path="kernel/xiaomi/msm8953" name="hungphanvpphan/android_kernel_xiaomi_msm8953" remote="github" revision="oreo"/>
   <project path="vendor/havoc" name="hungphanvpphan/android_vendor_havoc" remote="github" revision="oreo"/>
   <project path="packages/apps/HavocSettings" name="hungphanvpphan/android_packages_apps_HavocSettings" remote="github" revision="oreo"/>
-  <project path="packages/apps/Gallery2" name="https://github.com/hungphanvpphan/android_packages_apps_Gallery2" remote="github" revision="oreo"/>
+  <project path="packages/apps/Gallery2" name="hungphanvpphan/android_packages_apps_Gallery2" remote="github" revision="oreo"/>
 </manifest>
