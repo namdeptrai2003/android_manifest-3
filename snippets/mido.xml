@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Mido -->
-<project path="device/xiaomi/mido" name="hungphanvpphan/device_xiaomi_mido" remote="github" revision="oreo" />
+<project path="device/xiaomi/mido" name="hungphanvpphan/android_device_xiaomi_mido" remote="github" revision="oreo" />
   <project path="device/xiaomi/msm8953-common" name="hungphanvpphan/device_xiaomi_msm8953-common" remote="github" revision="oreo" />
   <project path="vendor/xiaomi" name="hungphanvpphan/proprietary_vendor_xiaomi" remote="github" revision="oreo"/>
   <project path="kernel/xiaomi/msm8953" name="hungphanvpphan/android_kernel_xiaomi_msm8953" remote="github" revision="oreo"/>
