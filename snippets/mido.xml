@@ -8,5 +8,4 @@
   <project path="vendor/havoc" name="hungphanvpphan/android_vendor_havoc" remote="github" revision="oreo"/>
   <project path="packages/apps/HavocSettings" name="hungphanvpphan/android_packages_apps_HavocSettings" remote="github" revision="oreo"/>
   <project path="packages/apps/Gallery2" name="hungphanvpphan/android_packages_apps_Gallery2" remote="github" revision="oreo"/>
-   <project path="system/libhidl" name="LineageOS/android_system_libhidl" remote="github" revision="lineage-15.1"/>
 </manifest>
